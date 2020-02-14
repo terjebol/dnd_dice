@@ -1,0 +1,14 @@
+﻿
+/DiceLib/bin/
+/DiceLib/obj/
+.idea/.idea.DND_Dice/.idea/.gitignore
+.idea/.idea.DND_Dice/.idea/contentModel.xml
+.idea/.idea.DND_Dice/.idea/encodings.xml
+.idea/.idea.DND_Dice/.idea/indexLayout.xml
+.idea/.idea.DND_Dice/.idea/modules.xml
+.idea/.idea.DND_Dice/.idea/projectSettingsUpdater.xml
+.idea/.idea.DND_Dice/.idea/vcs.xml
+.idea/.idea.DND_Dice/riderModule.iml
+/TestApp/bin/
+/TestApp/obj/
+
